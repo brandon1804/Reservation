@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="WR">Le Restaurant</string>
+    <string name="EN"> Enter your name</string>
+    <string name="FN">Full Name</string>
+    <string name="P">Phone Number</string>
+    <string name="PN">Enter your phone number</string>
+    <string name="GS">Group Size</string>
+    <string name="EG">Enter your group size</string>
+    <string name="SD">Select Date</string>
+    <string name="ST">Select Time</string>
+    <string name="STA">Select Table Area</string>
+    <string name="SA">Smoking Area</string>
+    <string name="NSA">Non-Smoking Area</string>
+    <string name="RE">Reserve</string>
+    <string name="RES">Reset</string>
+</resources>
